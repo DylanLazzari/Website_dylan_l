@@ -1,4 +1,6 @@
+
 h1 {
+    text-align: center;
     font-size: 70px;
     font-weight: 600;
     background-image: linear-gradient(to left, #553c9a, #b393d3);
@@ -6,3 +8,12 @@ h1 {
     background-clip: text;
     -webkit-background-clip: text;
   }
+style {
+  background-attachment: fixed;
+  background-size: cover;
+  background-image: url('/Users/dylanlazzari/Desktop/Programming /website/Website_dylan_l/images/papers.co-og13-nature-tree-tall-wood-3840x2400.jpg');
+}
+
+
+
+
